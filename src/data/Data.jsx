@@ -1,5 +1,5 @@
-import Work1 from "../assets/work1.jpg";
-import Work2 from "../assets/work2.jpg";
+import Work1 from "../assets/work1.png";
+import Work2 from "../assets/work2.png";
 import Work3 from "../assets/work3.png";
 import Work4 from "../assets/work4.PNG";
 import Work5 from "../assets/work5.PNG";
@@ -75,38 +75,38 @@ const DataResume = [
 const Work = [
   {
     id: 1,
-    image: Work1,
-    title: "SPA Amazon Clone",
-    url: "https://amazon-clone-tcz9.onrender.com/",
-    github: "https://github.com/Youssef97dev/Amazon-Clone",
+    image: Work5,
+    title: "Veterinary Clinic Management App",
+    url: "https://www.linkedin.com/posts/youssef-moussafi_laravel-reactjs-contextapi-activity-7087206621809885184-qJ7Y/",
+    github: "https://github.com/jamal-kak/casapets-react/tree/pfe_casapet_V2",
   },
   {
     id: 2,
-    image: Work2,
-    title: "SPA Netflix Clone",
-    url: "https://netflix-clone-ea395.web.app/",
-    github: "https://github.com/Youssef97dev/netflix-clone",
-  },
-  {
-    id: 3,
-    image: Work3,
-    title: "Fullstack Social Media APP",
-    url: "https://fb-clone-ahhg.onrender.com/",
-    github: "https://fb-clone-ahhg.onrender.com/",
-  },
-  {
-    id: 4,
     image: Work4,
     title: "Simple Admin Dashboard UI",
     url: "https://mssadmin.onrender.com/",
     github: "https://github.com/Youssef97dev/react-admin-ui",
   },
   {
+    id: 3,
+    image: Work1,
+    title: "SPA Amazon Clone",
+    url: "https://amazon-clone-tcz9.onrender.com/",
+    github: "https://github.com/Youssef97dev/Amazon-Clone",
+  },
+  {
+    id: 4,
+    image: Work2,
+    title: "SPA Netflix Clone",
+    url: "https://netflix-clone-ea395.web.app/",
+    github: "https://github.com/Youssef97dev/netflix-clone",
+  },
+  {
     id: 5,
-    image: Work5,
-    title: "Veterinary Clinic Management App",
-    url: "https://www.linkedin.com/posts/youssef-moussafi_laravel-reactjs-contextapi-activity-7087206621809885184-qJ7Y/",
-    github: "https://github.com/jamal-kak/casapets-react/tree/pfe_casapet_V2",
+    image: Work3,
+    title: "Fullstack Social Media APP",
+    url: "https://fb-clone-ahhg.onrender.com/",
+    github: "https://fb-clone-ahhg.onrender.com/",
   },
 ];
 
